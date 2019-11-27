@@ -1,0 +1,30 @@
+# Binaries for programs and plugins
+.DS_Store
+*.[56789ao]
+*.a[56789o]
+*.so
+*.pyc
+._*
+.nfs.*
+[56789a].out
+*~
+*.orig
+*.rej
+*.exe
+.*.swp
+core
+*.cgo*.go
+*.cgo*.c
+_cgo_*
+_obj
+_test
+_testmain.go
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# IDE
+.idea
